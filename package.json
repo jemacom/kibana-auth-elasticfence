@@ -5,14 +5,8 @@
   "main": "gulpfile.js",
   "homepage": "https://github.com/elasticfence/kibana-auth-elasticfence",
   "maintainers": [
-    {
-      "name": "Hugues Malphettes",
-      "email": "hmalphettes@gmail.com"
-    },
-    {
-      "name": "Lorenzo Mangani",
-      "email": "lorenzo.mangani@gmail.com"
-    }
+    "Hugues Malphettes <hmalphettes@gmail.com>",
+    "Lorenzo Mangani <lorenzo.mangani@gmail.com>"
   ],
   "keywords": [
     "kibana"
@@ -45,5 +39,9 @@
     "gulp-tar": "~1.9.0",
     "gulp-util": "~3.0.8",
     "rimraf": "~2.6.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/hmalphettes/kibana-auth-plugin/issues"
+  },
+  "author": "Chokri"
 }
